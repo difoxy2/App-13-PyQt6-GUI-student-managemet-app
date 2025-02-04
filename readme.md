@@ -8,7 +8,7 @@ Features are Create, Read, Update, Delete, Search student records from sqlite3 /
 
 # Live Demo:
 
-https://www.youtube.com/watch?v=qPfLhgqWPcA&ab_channel=T.K.
+https://github.com/user-attachments/assets/ada355f6-b6b8-4885-9b23-6153e6fd645a
 
 # Library Used
 
